@@ -1,10 +1,10 @@
-#Samsung_X210v3
+# Samsung_X210v3
 
-##preface
+## preface
 this is a project for Samsung_x210v3 embedded development.
 _______________________________________________________
 
-##HARDWARE ENVIRONMENT
+## HARDWARE ENVIRONMENT
 * CPU: Cortex-A8, 1GHz
 * memery: 512MB
 * Flash: 4GB inand-Flash
@@ -24,7 +24,7 @@ _______________________________________________________
 * Support for G-sensor, SPI, UART, USB/WIFI, GPS, GPRS, etc.
 * 2D/3D high performance graphic process
 
-##SOFTWARE
+## SOFTWARE
 * Boot loader: uBoot
 
 
